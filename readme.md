@@ -1,6 +1,6 @@
 # StarCraft II Lord of the Rings and Star Battle Custom Maps Repository
 
-Welcome to the SC2 LoTR/SBS Maps repository! This repository is dedicated to collecting and enhancing custom maps for StarCraft II that are themed around the epic "Lord of the Rings" and the strategic "Star Battle" series. Developers can share their themed maps, provide updates to existing ones, and collaborate to refine and enhance the thematic gameplay experience.
+Welcome to the SC2 LoTR/SBS Maps repository! This repository is dedicated to collecting and enhancing custom maps for StarCraft II that are themed around the epic "Lord of the Rings" and the strategic "Spawn based strategy" series. Developers can share their themed maps, provide updates to existing ones, and collaborate to refine and enhance the thematic gameplay experience.
 
 ## Contribution Guidelines
 
